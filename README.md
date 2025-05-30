@@ -1,9 +1,9 @@
 # MAS4SAM
 
 # TODO
-[] Raw Codes Upload
-[] Demo and inference code upload with description
-[] README update
+- [x] Raw Codes Upload
+- [ ] Demo and inference code upload with description
+- [ ] README update
 
 # SPOTLIGHT
 - [2025.05.30] Core codes uploaded.
